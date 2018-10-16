@@ -1,44 +1,4 @@
-// (function () {
-//   if (!window.ZM) {
-//       window.ZM = {};
-//   }
-//
-//   ZM.config = {
-//       //zmHost : 'http://'+location.hostname+':8080',
-//       //zmHost : 'https://'+ location.hostname +':8443',
-//       zmHost: 'https://x-chat-test.zmlearn.com',
-//       // zmHost: 'http://localhost:3000',
-//       //'http://nightly-test.zm1v1.com',
-//       zmHostOld: 'https://www.zmlearn.com',
-//       //zmChatHost: 'https://'+ location.hostname +':8443',
-//       zmChatHost: 'https://x-chat-test.zmlearn.com',
-//       zmChatMirrors: ['https://chat1.zmlearn.com:443', 'https://chat2.zmlearn.com:443'],
-//       //zmChatUploadApiNew: 'http://120.27.193.190:8080',
-//       zmHostTk: 'https://homework-test.zmlearn.com',
-//       //zmHostTk:'http://120.26.162.201:8080',
-//       //zmChatUploadApiNew: 'https://x-chat-doc-test.zmlearn.com',
-//       zmChatUploadApiNew: 'https://x-chat-doc-test.zmlearn.com',
-//       zmChatHostPort: '8443',
-//       zmChatHostSPort: '8443',
-//       zmSignalHost: '/',
-//       presentationUploadUrl: 'zm-chat:/api/presentation/upload',
-//       debug: false,
-//       //loggerHost: 'http://'+window.location.hostname+':1337'
-//       lessonUploadedApi: '/api/lesson/uploaded',
-//       zmVersionWin7plus: '1.0.1.1',
-//       zmVersionMac: '1.0.3.0',
-//       zmVersionxp: '1.0.1.1',
-//       zmAppDownloadBase: 'http://7tea5g.com2.z0.glb.qiniucdn.com/',
-//       zm1v1Test: 'https://v2-test.zm1v1.com',
-//       //zmFsHost:'http://fs.zmlearn.com:8080',
-//       zmFsHostTest: 'https://fs-test.zmlearn.com',
-//       zmWatcherHostTest: 'http://121.43.100.229:8080',
-//       zmTencentApi: 'https://x-chat-test.zmlearn.com',
-//       zmTr: 'https://tr-test.zmlearn.com',
-//       zmQb: 'https://qb-test.zmlearn.com',
-//   zmZml: 'https://zml-test.zmlearn.com',
-//   };
-// })();
+
 (function () {
     if (!window.ZM) {
         window.ZM = {};
