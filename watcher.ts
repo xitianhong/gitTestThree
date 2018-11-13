@@ -1,9 +1,5 @@
 ﻿﻿
 module ZM.Watcher {
-
-
-
-    
     let lesson_wrapper = $('.lesson-selection-wrapper');
     let lesson_list:any = lesson_wrapper.find('.lesson-list');
     let list_data:any = [];
